@@ -1,5 +1,5 @@
 # machine_learning_training_bot
-algorithmic trading bot with SVM learning functionality
+algorithmic trading bot with SVM learning functionality and model classification reporting
 
 
 ## baseline performance:
